@@ -8,4 +8,4 @@
 
 ## Dashboard Screenshots Below
 
-![](https://github.com/davidwhitemsm/images-for-readme-documentation/blob/main/CREATE%20%60harlemlinksy2122.datasources.datasource%60_Page_2.png)
+![](https://github.com/davidwhitemsm/images-for-readme-documentation/blob/a44d157f9b82d4088ceec265f8857cae04696cb2/%5BSNAPSHOT%5D%202021-01-18%20HLCS_Data_&_Accountability_Dashboard_-_Harlem_Link_Charter_School_Page_01.png)
