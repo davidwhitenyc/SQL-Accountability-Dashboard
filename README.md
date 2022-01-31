@@ -1,6 +1,6 @@
 # SQL Accountability Dashboard - MSM Design
 
->  This repository contains SQL code that I've used to build a dashboard to be used for board oversight and governance.
+>  This repository contains SQL code that I've used to build a dashboard to be used for board oversight and governance. View the complete user guide at: 
 >
 >  For more information please contact me at: david@msmdesign.nyc | [msmdesign.nyc](https://msmdesign.nyc/)
 
